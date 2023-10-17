@@ -1,0 +1,80 @@
+internet technology
+_____________________________________________________________________
+
+Why it is important to identify the object in web
+development strategies ? Also explain, with the help of block diagram,
+web development process.
+
+It is essential to identify objects in web development strategies because it will
+help the developer to understand the elements that play a vital role in business
+applications.
+Web development process :
+The process of website development can be divided into following different
+life cycle steps :
+
+1. Analysis
+2. Specification Building
+3. Design and Development
+4. Content Writing
+5. Coding
+6. Testing
+7. Maintenance and Updation
+
+1. Analysis :
+a. In this phase, all the information required for the web project is
+gathered.
+b. Analysis of the requirement given by the customer is done by the
+group of programmers and designers.
+
+2. Specification building :
+a. In this phase, Software Requirement Specifications (SRS) document
+is prepared.
+b. In this document each and every element of the requirement is
+presented in detailed form.
+
+3. Design and development :
+a. In design phase, the layouts and navigation will be designed as a
+prototype.
+b. Test plans and procedures are developed for quality assurance.
+c. In development phase, team will develop the database with all the
+data structures and sample data according to the requirements.
+
+4. Content writing : There are professional content developers who
+write industry specific and relevant content for the site. The grammatical
+and spelling check should be done in this phase.
+
+5. Coding :
+a. In coding stage programmers add the code without disturbing the
+design.
+b. Coding team generate necessary testing plans as well as technical
+documentation.
+
+6. Testing :
+a. Both automated testing and manual testing should be done without
+fail.
+b. After doing all the testing, a live testing is necessary for websites
+and web based applications. After uploading the site there should
+be a complete testing.
+
+7. Maintenance and updation : Once the website is operational, ongoing
+promotion, technical maintenance, content management and staff
+training is needed on a regular basis.
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+Q:-02  what is the life Cycle of a Servlet?
+ans:-The entire life cycle of a Servlet is managed by the Servlet container
+ which uses the javax.servlet.Servlet interface to understand the Servlet object 
+and manage it. So, before creating a Servlet object, let’s first understand the 
+life cycle of the Servlet object which is actually understanding how the Servlet 
+container manages the Servlet object.
+
+Stages of the Servlet Life Cycle: 
+
+1. Loading a Servlet.
+2. Initializing the Servlet.
+3. Request handling.
+4. Destroying the Servlet.
+
+1. Loading a Servlet:-
+                     
